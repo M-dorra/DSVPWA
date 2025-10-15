@@ -1,0 +1,1 @@
+  2jsXhrstatic/js/jquery.min.js

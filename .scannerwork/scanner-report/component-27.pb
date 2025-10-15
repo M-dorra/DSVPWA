@@ -1,0 +1,1 @@
+ 2cssXhr"static/css/fontawesome-all.min.css
