@@ -2,5 +2,5 @@ projectKey=tp-sast
 serverUrl=http://localhost:9000
 serverVersion=25.10.0.114319
 dashboardUrl=http://localhost:9000/dashboard?id=tp-sast
-ceTaskId=f9fe1d3f-c218-4394-87dc-a530519d7c39
-ceTaskUrl=http://localhost:9000/api/ce/task?id=f9fe1d3f-c218-4394-87dc-a530519d7c39
+ceTaskId=42d3bc77-5366-4442-8645-f0e7d863805b
+ceTaskUrl=http://localhost:9000/api/ce/task?id=42d3bc77-5366-4442-8645-f0e7d863805b
